@@ -80,11 +80,11 @@
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ryantusi" />
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ryantusi&theme=dark&hide_border=false&" />
 
-<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryantusi&show_icons=true&locale=en" />
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryantusi&theme=dark&hide_border=false&show_icons=true&locale=en" />
 
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryantusi&" />
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryantusi&theme=dark&hide_border=false&" />
 
 <h2 align="left">Connect with Me</h2>
 
