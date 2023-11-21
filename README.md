@@ -2,7 +2,7 @@
 
 <img width="100%" align="center" src="banner.gif" />
 
-<h5 align="center">👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.</h5>
+<h5>👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.</h5>
 
 <h5>🎨 Beyond coding, I thrive in design realms, sculpting graphics that breathe life into ideas. As a team leader, I orchestrate harmony among diverse talents, channeling collaborative spirits towards successful project horizons.</h5>
 
