@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋 I'm Ryan Tusi</h1>
 
-<img width="100%" align="center" src="banner.png" />
+<img width="100%" align="center" src="banner.gif" />
 
 <h5 align="center">👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.
 
@@ -10,7 +10,7 @@
 
 📚 Constant learning is my compass; I'm continually honing skills, eager to contribute my multifaceted expertise to the ever-evolving landscape of software engineering. Join me on this journey of innovation, collaboration, and relentless growth!</h5><br>
 
-<img width="30%" align="right" src="github_image.png" /><br>
+<img width="30%" align="right" src="github_image.gif" /><br>
 
 <h2 align="left">Some Facts About Me</h2>
 
