@@ -80,7 +80,7 @@
 
 <br><hr><br>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ryantusi&theme=dark&hide_border=false&" />
+
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryantusi&theme=dark&hide_border=false&show_icons=true&locale=en" />
 
