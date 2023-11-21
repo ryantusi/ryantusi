@@ -2,13 +2,13 @@
 
 <img width="100%" align="center" src="banner.gif" />
 
-<h5 align="center">👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.
+<h5 align="center">👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.</h5>
 
-🎨 Beyond coding, I thrive in design realms, sculpting graphics that breathe life into ideas. As a team leader, I orchestrate harmony among diverse talents, channeling collaborative spirits towards successful project horizons.
+<h5>🎨 Beyond coding, I thrive in design realms, sculpting graphics that breathe life into ideas. As a team leader, I orchestrate harmony among diverse talents, channeling collaborative spirits towards successful project horizons.</h5>
 
-🌟 Mentoring is my forte; I relish guiding aspiring minds, nurturing their potential in both academia and industry. Balancing project management finesse with event organizing prowess, I've orchestrated seamless spectacles while juggling multiple hats 🎩.
+<h5>🌟 Mentoring is my forte; I relish guiding aspiring minds, nurturing their potential in both academia and industry. Balancing project management finesse with event organizing prowess, I've orchestrated seamless spectacles while juggling multiple hats 🎩.</h5>
 
-📚 Constant learning is my compass; I'm continually honing skills, eager to contribute my multifaceted expertise to the ever-evolving landscape of software engineering. Join me on this journey of innovation, collaboration, and relentless growth!</h5><br>
+<h5>📚 Constant learning is my compass; I'm continually honing skills, eager to contribute my multifaceted expertise to the ever-evolving landscape of software engineering. Join me on this journey of innovation, collaboration, and relentless growth!</h5><br>
 
 <img width="30%" align="right" src="github_image.gif" /><br>
 
