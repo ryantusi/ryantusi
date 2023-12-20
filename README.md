@@ -80,8 +80,6 @@
 
 <br><hr><br>
 
-
-
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ryantusi&theme=dark&hide_border=false&show_icons=true&locale=en" />
 
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ryantusi&theme=dark&hide_border=false&" />
@@ -89,3 +87,6 @@
 <h2 align="left">Connect with Me</h2>
 
 <p align='left'><a href="https://github.com/ryantusi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/github.svg" width="40" height='40' title="github"/></a><a href="https://www.linkedin.com/in/ryantusi/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/linked-in-alt.svg" width="40" height='40' title="linked-in-alt"/></a><a href="https://twitter.com/TusiRyan"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/twitter.svg" width="40" height='40' title="twitter"/></a><a href="https://www.instagram.com/newdawnfoundation2021/?igshid=MzMyNGUyNmU2YQ"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/instagram.svg" width="40" height='40' title="instagram"/></a><a href="https://discord.com/users/759055573030404097"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/discord.svg" width="40" height='40' title="discord"/></a><a href="https://codepen.io/ryan_tusi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/codepen.svg" width="40" height='40' title="codepen"/></a><a href="https://www.hackerrank.com/profile/ryantusi45"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/hackerrank.svg" width="40" height='40' title="hackerrank"/></a><a href="https://www.kaggle.com/RyanTusi"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/kaggle.svg" width="40" height='40' title="kaggle"/></a><a href="https://leetcode.com/ryantusi/"><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Social/leet-code.svg" width="40" height='40' title="leet-code"/></a></p>
+
+<br><br>
+<img width="66.5%" src="https://github-profile-trophy.vercel.app/?username=ryantusi&theme=gruvbox&title=Commits,Issues,PullRequest,Stars,Repositories,Experience" /> <br>
