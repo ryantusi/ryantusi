@@ -32,7 +32,7 @@
 
 <p align='left'><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/c.svg" width='40' height='40' title='c'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/cpp.svg" width='40' height='40' title='cpp'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/java.svg" width='40' height='40' title='java'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/javascript.svg" width='40' height='40' title='javascript'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/php.svg" width='40' height='40' title='php'/><img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/ProgrammingLanguages/python.svg" width='40' height='40' title='python'/></p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryantusi&show_icons=true&locale=en&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryantusi&show_icons=true&locale=en&layout=compact&theme=dark" />
 
 <h3 align="left">Frontend Development:</h3>
 
