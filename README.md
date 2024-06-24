@@ -18,11 +18,11 @@
 
 - 🌱 I’m currently learning **AI and ML**
 
-- 📫 How to reach me *[https://www.linkedin.com/in/ryantusi/](https://www.linkedin.com/in/ryantusi/)*
+- 📫 How to reach me *[Linkedin](https://www.linkedin.com/in/ryantusi/)*
 
-- 👨‍💻 All of my projects are available at *[https://github.com/ryantusi/](https://github.com/ryantusi/)*
+- 👨‍💻 View my *[Portfolio](https://fabulous-chimera-8c858a.netlify.app/)*
 
-- 📄 Know about my experiences *[https://shorturl.at/bk359](https://shorturl.at/bk359)*
+- 📄 Know about my experiences - *[Resume](https://shorturl.at/bk359)*
 
 - ⚡ Fun fact: **I'm a Fitness Trainer and Boxer too**
 
