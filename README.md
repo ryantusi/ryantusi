@@ -20,7 +20,7 @@
 
 - 📫 How to reach me *[Linkedin](https://www.linkedin.com/in/ryantusi/)*
 
-- 👨‍💻 View my *[Portfolio](https://fabulous-chimera-8c858a.netlify.app/)*
+- 👨‍💻 View my *[Portfolio](https://ryantusi.netlify.app/)*
 
 - 📄 Know about my experiences - *[Resume](https://shorturl.at/bk359)*
 
