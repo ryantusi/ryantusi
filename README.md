@@ -10,9 +10,8 @@
 
 <h5>📚 Constant learning is my compass; I'm continually honing skills, eager to contribute my multifaceted expertise to the ever-evolving landscape of software engineering. Join me on this journey of innovation, collaboration, and relentless growth!</h5><br>
 
-<img width="30%" align="right" src="github_image.gif" /><br>
-
 <h2 align="left">Some Facts About Me</h2>
+<img width="30%" align="right" src="github_image.gif" /><br>
 
 - 🔭 I’m currently working on **Natural Language Processing**
 
