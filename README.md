@@ -2,20 +2,26 @@
 
 <img width="100%" align="center" src="banner.gif" />
 
-<h5>👨‍💻 Hello there! I'm a software engineering enthusiast on a journey to merge innovation with creativity. As a versatile student developer, I'm driven by a passion for crafting remarkable digital experiences and diving into the realms of Artificial Intelligence and Machine Learning 🚀.</h5>
+<h5>🚢 Hello there! I'm Ryan — a full-stack developer and tech enthusiast building my career at the crossroads of software and supply chain.</h5>
 
-<h5>🎨 Beyond coding, I thrive in design realms, sculpting graphics that breathe life into ideas. As a team leader, I orchestrate harmony among diverse talents, channeling collaborative spirits towards successful project horizons.</h5>
+<h5>🔧 By day, I manage ship chandling operations — coordinating vessels, inventory, and maritime workflows. By passion, I code digital solutions to transform those very operations — merging real-world logistics with modern web development.</h5>
 
-<h5>🌟 Mentoring is my forte; I relish guiding aspiring minds, nurturing their potential in both academia and industry. Balancing project management finesse with event organizing prowess, I've orchestrated seamless spectacles while juggling multiple hats 🎩.</h5>
+<h5>💻 I try to build robust, user-friendly apps using my new tech stack C#, ASP.NET Core, SQL Server, Flask, and APIs which I’m currently diving deeper into. Plus cloud, Azure, and AI to future-proof my skillset.</h5>
 
-<h5>📚 Constant learning is my compass; I'm continually honing skills, eager to contribute my multifaceted expertise to the ever-evolving landscape of software engineering. Join me on this journey of innovation, collaboration, and relentless growth!</h5><br>
+<h5>🎨 On the creative side, I design clean, immersive UI/UX, and as a freelancer, I craft modern websites for clients with speed, aesthetics, and performance in mind.</h5>
+
+<h5>📢 I love sharing knowledge — from mentoring peers in tech and soft skills to running student communities that empower future engineers and communicators.</h5>
+
+<h5>🚀 My mission? To be the bridge between domain expertise and technical excellence, especially in maritime, logistics, and supply chain tech.</h5>
+
+<h5>📬 Let’s connect and collaborate — whether it’s shipping code, solving real-world ops problems, or building what’s next in global movement.</h5>
 
 <h2 align="left">Some Facts About Me</h2>
 <img width="30%" align="right" src="github_image.gif" /><br>
 
-- 🔭 I’m currently working on **Natural Language Processing**
+- 🔭 I’m currently working on **Maritime Logistics Tech**
 
-- 🌱 I’m currently learning **AI and ML**
+- 🌱 I’m currently learning **.NET plus AI and ML**
 
 - 📫 How to reach me *[Linkedin](https://www.linkedin.com/in/ryantusi/)*
 
