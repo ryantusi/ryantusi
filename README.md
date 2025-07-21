@@ -27,8 +27,6 @@
 
 - 👨‍💻 View my *[Portfolio](https://ryantusi.netlify.app/)*
 
-- 📄 Know about my experiences - *[Resume](https://shorturl.at/bk359)*
-
 - ⚡ Fun fact: **I'm a Fitness Trainer and Boxer too**
 
 <h2 align="left">Skillset</h2>
