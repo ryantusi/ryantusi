@@ -2,32 +2,34 @@
 
 <img width="100%" align="center" src="banner.gif" />
 
-<h5>🚢 Hello there! I'm Ryan — a full-stack developer and tech enthusiast building my career at the crossroads of software and supply chain.</h5>
+<h5>🚢 Hello there! I'm Ryan — a T-Shaped Professional, certified full-stack + AI/ML engineer building my career at the intersection of technology, AI, and maritime logistics.</h5>
 
-<h5>🔧 By day, I manage ship chandling operations — coordinating vessels, inventory, and maritime workflows. By passion, I code digital solutions to transform those very operations — merging real-world logistics with modern web development.</h5>
+<h5>🔧 By work, I manage operations as a consultant at a global ship chandling firm — coordinating vessels, procurement, and supply chain workflows. By passion, I build AI-powered solutions to transform those very operations — like a live vessel tracker that cut manual work from hours to minutes.</h5>
 
-<h5>💻 I try to build robust, user-friendly apps using my new tech stack C#, ASP.NET Core, SQL Server, Flask, and APIs which I’m currently diving deeper into. Plus cloud, Azure, and AI to future-proof my skillset.</h5>
+<h5>💻 I build robust, production-grade systems using React, Express, Flask, Python, JavaScript, PostgreSQL, Redis, Docker, and many more technologies. Plus AI/ML stack with TensorFlow, Keras, PyTorch, Scikit-learn, and deploying MLOps pipelines with real business impact.</h5>
 
-<h5>🎨 On the creative side, I design clean, immersive UI/UX, and as a freelancer, I craft modern websites for clients with speed, aesthetics, and performance in mind.</h5>
+<h5>🎨 On the creative side, I design immersive 3D websites for businesses — merging art, design, logic, and performance to create modern web experiences that stand out.</h5>
 
-<h5>📢 I love sharing knowledge — from mentoring peers in tech and soft skills to running student communities that empower future engineers and communicators.</h5>
+<h5>📢 I love sharing knowledge — from mentoring peers in tech and soft skills to leading charitable initiatives through my non-profit org New Dawn Foundation, staying grounded in faith and community since 17.</h5>
 
-<h5>🚀 My mission? To be the bridge between domain expertise and technical excellence, especially in maritime, logistics, and supply chain tech.</h5>
+<h5>🚀 My mission? To become that Hybrid AI + Software Engineer bridging the maritime and logistics world with tech solutions — growing my "T" bigger both horizontally and vertically.</h5>
 
-<h5>📬 Let’s connect and collaborate — whether it’s shipping code, solving real-world ops problems, or building what’s next in global movement.</h5>
+<h5>📬 Let's connect and collaborate — whether it's building AI-driven systems, solving supply chain problems, or growing together in this "learn-it-all" journey.</h5>
 
 <h2 align="left">Some Facts About Me</h2>
 <img width="30%" align="right" src="github_image.gif" /><br>
 
-- 🔭 I’m currently working on **Maritime Logistics Tech**
+- 🔭 I'm currently working on **AI-Powered Maritime & Supply Chain Tech**
 
-- 🌱 I’m currently learning **.NET plus AI and ML**
+- 🌱 I'm currently learning **MLOps, Advanced AI, and Production System Design**
 
 - 📫 How to reach me *[Linkedin](https://www.linkedin.com/in/ryantusi/)*
 
 - 👨‍💻 View my *[Portfolio](https://ryantusi.netlify.app/)*
 
-- ⚡ Fun fact: **I'm a Fitness Trainer and Boxer too**
+- 🤖 Check out my **Features Projects** below.
+
+- ⚡ Fun fact: **I'm a Certified Fitness Trainer who also codes AI systems**
 
 <h2 align="left">Skillset</h2>
 
